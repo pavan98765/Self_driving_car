@@ -4,7 +4,7 @@
 
 This project is a simulation of a self-driving car using JavaScript. It demonstrates the basic functionalities of autonomous vehicles, including obstacle avoidance, path planning, and decision-making in a simulated environment.
 
-![img](data/self_driving_car_gif.gif)
+![img](Results/self_driving_car_gif.gif)
 
 ## Installation
 
